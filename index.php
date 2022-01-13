@@ -473,7 +473,7 @@
           </div>
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry">
-              <a href="images/Abstract-Highlights.pdf" target="_blank" class="block-20" style="background-image: url('images/fig5.png');">
+              <a href="images/Abstract-Highlights.pdf" target="_blank" class="block-20" style="background-image: url('images/Image1.png');">
               </a>
               <div class="text mt-3 float-right d-block">
               	<div class="d-flex align-items-center mb-3 meta">

@@ -308,7 +308,7 @@
         </div>
     		<div class="row">
     			<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/Figure7.PNG);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/Figure7.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
 	    					<h3><a >Brain tumor detection &amp; segmentation</a></h3>
@@ -317,7 +317,7 @@
     				</div>
   				</div>
   				<div class="col-md-8">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/maskrcnn.PNG);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/maskrcnn.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
 	    					<h3><a >Mask R-CNN for Object Detection</a></h3>
@@ -367,7 +367,7 @@
     			</div>
 
 				<div class="col-md-4">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/voice.PNG);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/voice.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
 	    					<h3><a >Speech Recognition using Deep Learning</a></h3>
@@ -388,7 +388,7 @@
 
 
 				  <div class="col-md-8">
-    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/malaria.PNG);">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/malaria.png);">
     					<div class="overlay"></div>
 	    				<div class="text text-center p-4">
 	    					<h3><a >Detecting Malaria with Deep Learning</a></h3>
